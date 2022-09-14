@@ -3,26 +3,19 @@
 Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science degree in Statistics (Politeknik Statistika STIS). This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 # Table of Contents
-About
-Portfolio Projects
-Video Games Sales Analysis
-A Mobile Game Data Analysis
-A Landing Page Design Experiment
-Online Advertising Campaign Analysis
-Airbnb Listings Analytics
-Study Projects
-sklearn ML course
-Kaggle 30 Days of ML
-Data Analysis Course
-Data Analysis Course Tinkoff-MSU
-Learning SQL
-Python Developer Track
-Computer Science Career Path
-Google Python Class
-Side Projects
-Tableau Vizzes
-Certificates
-Contacts
+- Portfolio Projects
+  - Koin Project
+  - A Mobile Game Data Analysis
+  - A Landing Page Design Experiment
+  - Online Advertising Campaign Analysis
+  - Airbnb Listings Analytics
+  - Study Projects
+  - sklearn ML course
+  - Kaggle 30 Days of ML
+- SQL
+- Interpretation
+- Certificates
+- Contacts
 
 # Portfolio Projects
 In this section I will list some data analytics and data science projects briefly describing the technology stack used to solve cases.
@@ -146,6 +139,5 @@ Introduction to Linux (Dec 2014) (Stepik - Bioinformatics Institute)
 IELTS Academic (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
 
 # Contacts
-LinkedIn: Febriyeni Susi
-
-E-mail: febsusi87@gmail.com
+- LinkedIn: Febriyeni Susi
+- E-mail: febsusi87@gmail.com
