@@ -1,12 +1,8 @@
-# Data-Analyst-Data-Science-Project-Portfolio
-Project related to Data Analyst and Data Science
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Saint Petersburg Mining University), majoring in Seismic Data Processing and Analysis. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. After one year of transition from geoscience to Data Analysis, I'm Data Analyst in a Fintech company since June 2021.
-Achieved the 7th place at an open Data Analyst 2021 competition held by Career Factory
+# Febriyeni Data Analyst/Data Science Project Portfolio
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science degree in Statistics (Politeknik Statistika STIS). This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-
-Table of contents
+# Table of Contents
 About
 Portfolio Projects
 Video Games Sales Analysis
@@ -27,8 +23,9 @@ Side Projects
 Tableau Vizzes
 Certificates
 Contacts
-Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+# Portfolio Projects
+In this section I will list some data analytics and data science projects briefly describing the technology stack used to solve cases.
 
 Video Games Sales Analysis
 Code: video_games_sales.ipynb
