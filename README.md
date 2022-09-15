@@ -37,6 +37,7 @@ Results: According to the evaluation metrics, the Naive-Bayes classifier works b
 Code: notebook.ipynb
 
 Description: Clustering indicators of the quality of life of commuters in Indonesia using the DBSCAN algorithm as unsupervised learning model. The dataset contains 384 records data.
+
 Skills and Technology: Python, Pandas, Numpy, Matplotlib, Data Visualization, Principal Component Analysis (PCA), DBSCAN algorithm.
 Results: Based on the results of the calculation of the DBSCAN algorithm method, the number of clusters is 3 clusters. With each cluster member 0, 1, and -1 there are 281, 98, and 5 members. Cluster 0 is each observation that has the highest cluster, followed by Cluster 1, while Cluster -1 is each observation that has the lowest cluster. Based on the silhouette score of 0.333, it can be concluded that the objects in the cluster have a relatively weak level of similarity with each other, but each observation is in the right cluster.
 
