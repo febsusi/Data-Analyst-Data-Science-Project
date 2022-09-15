@@ -43,6 +43,7 @@ Results: Based on the results of the calculation of the DBSCAN algorithm method,
 
 - Customers Satisfaction Research
 Tableau Public: dashboard, Minitab, Eviews, and SPSS
+
 Description: The purpose of this research report is to measure the satisfaction level of customers and understand the customer’s needs for evaluation and improve the service of KoinRobo products. This report also analyzes the reasons and factors that influence customers’ satisfaction and allow insight into customers. This research was conducted with statistical and descriptive methods.
 
 # SQL
