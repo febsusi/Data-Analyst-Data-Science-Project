@@ -7,10 +7,8 @@ Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science 
   - Koin Project (Python and Tableau)
   - Clustering and Credit Scoring Fintech
   - Commuter Indonesia
-  - Immunization Indonesia
-  - Research
+  - Customers Satisfaction Research
 - SQL
-- Interpretation and Presentation
 - Certificates
 - Contacts
 
@@ -43,33 +41,14 @@ Skills: evaluating A/B-test design, data cleaning, data anomalies detection, che
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.
 Results: A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve.
 
-- Immunization Indonesia
-Code: ya_ad_int_solution.ipynb
-Presentation: ya_ad_int_slides_upd.pdf
-Description: My submission to Yandex Advertising Analytics internship program.
-Skills: data cleaning, CTR, CPC, CPA and CR calculation, comparing metrics with competitors, visualizing results, drawing conclusions.
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib.
-Results: the slide deck with online advertising campaign analysis and recommendations on how to improve based on the service category.
-
-- Research
-Tableau Public: dashboard
-Dashboard canvas: dashboard_canvas.pdf
-Description: Tableau Public dashboard consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighborhood, occupation rate and a number of reviews per the last twelve month.
-Skills: interview with a customer, requirements capture, designing an analytical dashboard, product delivery.
-Technology: Tableau.
-Results: created an analytical dashboard to support daily activities of a company involved in apartments renting business.
+- Customers Satisfaction Research
+Tableau Public: dashboard, Minitab, Eviews, and SPSS
+Description: The purpose of this research report is to measure the satisfaction level of customers and understand the customer’s needs for evaluation and improve the service of KoinRobo products. This report also analyzes the reasons and factors that influence customers’ satisfaction and allow insight into customers. This research was conducted with statistical and descriptive methods.
 
 # SQL
 Description: SQL queries for tasks from codecademy, sql-ex.ru, stepik, sql module on Yandex Praktikum, etc.
 Repository: Check the repository having 400+ SQL queries ---> go to repo..
 Status: Some of the courses are still in progress.
-
-# Interpretation and Presentation
-- Koin Project
-- Clustering and Credit Scoring Fintech Project
-- Commuter Indonesia
-- Immunization Indonesia
-- Research
 
 # Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
