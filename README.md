@@ -1,4 +1,4 @@
-# Febriyeni Susi Data Analyst-Data Science Project Portfolio
+# Febriyeni Susi Data Analyst-Data Science Portfolio
 
 Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science degree in Applied Statistics (Politeknik Statistika STIS). This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
