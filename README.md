@@ -61,7 +61,7 @@ Description: SQL queries for tasks from codecademy, sql-ex.ru, stepik, sql modul
 Repository: Check the repository having 400+ SQL queries ---> go to repo..
 Status: Some of the courses are still in progress.
 
-#Interpretation and Presentation
+# Interpretation and Presentation
 - Koin Project
 - Clustering and Credit Scoring Fintech Project
 - Commuter Indonesia
