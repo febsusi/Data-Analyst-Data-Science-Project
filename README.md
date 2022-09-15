@@ -5,7 +5,7 @@ Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science 
 # Table of Contents
 - Portfolio Projects
   - Koin Project
-  - Clustering and Credit Scoring Fintech
+  - Clustering and Credit Scoring Fintech Project
   - Commuter Indonesia
   - Immunization Indonesia
   - Research
@@ -19,18 +19,18 @@ In this section I will list some data analytics and data science projects briefl
 
 - Koin Project
 Code: video_games_sales.ipynb
-Description: The dataset contains 2511 records as of May 2021. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
-Skills: data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.
-Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
-Results: Review of the global and regional video games markets, data-based business recommendations.
+Presentation: 
+Description: The dataset contains 2511 records as of May 2021. There is a list of lenders with user_name,	loan_duration,	loan_grade,	lender_interest, total_purchase, order_status,	order_type,	order_date,	product, and	sub_product. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
+Skills: data cleaning, data analysis, descriptive statistics, data visualization. Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
+Results: Predictive modeling with the k-nearest neighbors' algorithm as supervised learning. In this project, I need to identify which users have the potential to be Mass/White/Silver/Gold lenders so that the company can upsell these lenders based on their predicted class.
 
-A Mobile Game Data Analysis
+- Clustering and Credit Scoring Fintech Project
 Code: final_project.ipynb
 Presentation: my_project_slides.pdf
-Description: The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.
+Description: Customer segmentation using the KMeans algorithm as part of clustering analysis and finding the feature importance by comparing different algorithms. The dataset contains 2511 records as of May 2021. There is a list of lenders with user_name,	loan_duration,	loan_grade,	lender_interest, total_purchase, order_status,	order_type,	order_date,	product, and	sub_product. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
 Skills: data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.
-Results: python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.
+Results: According to the evaluation metrics, the Naive-Bayes classifier works best because it gives the highest recall. However, when plotting the ROC curve and calculating AUC for all models, it is seen that XGB gives the highest AUC. So, the three features that have the most significant percentage using XGBoost are duration, Saving Accounts, and Housing
 
 A Landing Page Design Experiment
 Code: notebook.ipynb
@@ -109,31 +109,21 @@ Tableau Vizzes
 Description: My Tableau Public account ---> go to Tableau..
 Status: ∞
 
-Certificates
+# Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
-Teamlead 101 (Jul 2022) (Stratoplan Management School)
-sklearn ML course (May 2022) (France Université Numérique)
-Intermediate Machine Learning (Aug 2021) (Kaggle)
-Intro to Machine Learning (Aug 2021) (Kaggle)
-Data Analyst Specialization (Jul 2021) (karpov.courses)
-Jira and Confluence basics (Jun 2021) (GeekBrains)
-Databases for Developers: SQL Foundations (Jun 2021) (Oracle)
-Data Analysis Course Tinkoff-MSU (May 2021) (Tinkoff Education)
-Data Analyst Professional Development Training (Mar 2021) (Yandex Praktikum & University 20.35)
-Data Literacy Certificate (Mar 2021) (Qlik Q, accenture, Data Yoga)
-New Features in Python 3.9 course (Jan 2021) (RealPython)
-Fintech Trends (Dec 2020) (Tinkoff Education)
-Data Science Math Skills (Oct 2020) (Coursera - Duke University)
-Computer Science Career Path (Jul 2020) (Codecademy)
-Learn the Command Line Course (Jul 2020) (Codecademy)
-Learn Git Course (Jun 2020) (Codecademy)
-Learn Python 3 Course (Jun 2020) (Codecademy)
-English for Career Development (Feb 2018) (Coursera - University of Pennsylvania)
-Learning How to Learn (Feb 2018) (Coursera - University of California San Diego)
-Fundamentals of Project Planning and Management (Oct 2015) (Coursera - University of Virginia)
-Introduction to Linux (Dec 2014) (Stepik - Bioinformatics Institute)
-IELTS Academic (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
+- Diploma in Using Python for Data Science	(2021) (Alison)
+- HCIE-Big Data-Data Mining Course	(2021) (Huawei)
+- Business Intelligence and Knowledge Management System 	(2021) (Alison)
+- Python for Everyone	(2021) (Esri)	
+- Machine Learning in Python Environment	(2021) (Alison)
+- Introduction to Data Engineering	(2021) (Dell Technologies)
+- Getting Started with Spatial Analysis	(2021) (Esri)	
+- Understanding the Concepts of AI and ML	(2021) (Dell Technologies)
+- Introducing Data Science and Big Data Analytics for Business Transformation	(2021) (Dell Technologies)
+- INTRODUCTORY CERTIFICATE IN BUSINESS ANALYSIS	(2021) (Charles Sturt University)
+- Introduction to Data Governance for Monitoring The SDGS	(2021) (United Nations Institute for Training and Research (UNITAR))
+- Intro to Data Analytics Course	(2021) (RevoU)
 
 # Contacts
 - LinkedIn: Febriyeni Susi
