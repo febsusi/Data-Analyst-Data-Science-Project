@@ -4,7 +4,7 @@ Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science 
 
 # Table of Contents
 - Portfolio Projects
-  - Koin Project
+  - Koin Project (Python and Tableau)
   - Clustering and Credit Scoring Fintech Project
   - Commuter Indonesia
   - Immunization Indonesia
@@ -17,11 +17,14 @@ Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science 
 # Portfolio Projects
 In this section I will list some data analytics and data science projects briefly describing the technology stack used to solve cases.
 
-- Koin Project
+- Koin Project (Python and Tableau)
+
 Code: Febriyeni-Koin Projects-CIA.ipynb; 
 Presentation: 
-Description: The dataset contains 2511 records as of May 2021. There is a list of lenders with user_name,	loan_duration,	loan_grade,	lender_interest, total_purchase, order_status,	order_type,	order_date,	product, and	sub_product. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
-Skills: data cleaning, data analysis, descriptive statistics, data visualization. Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
+
+Description: The dataset contains 2511 records as of May 2021. There is a list of lenders with user_name,	loan_duration,	loan_grade,	lender_interest, total_purchase, order_status,	order_type,	order_date,	product, and	sub_product. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), Encoding variable, Scaling variable, Split Data Train and Test, Predictive modelling using the K-Nearest Neighbor (KNN) algorithm.
+
+Skills: data cleaning, data analysis, descriptive statistics, data visualization. Technology: Tableau, Python, Pandas, Numpy, Seaborn, Matplotlib.
 Results: Predictive modeling with the k-nearest neighbors' algorithm as supervised learning. In this project, I need to identify which users have the potential to be Mass/White/Silver/Gold lenders so that the company can upsell these lenders based on their predicted class.
 
 - Clustering and Credit Scoring Fintech Project
