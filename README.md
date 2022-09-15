@@ -19,8 +19,7 @@ In this section I will list some data analytics and data science projects briefl
 
 - Koin Project (Python and Tableau)
 
-Code: Febriyeni-Koin Projects-CIA.ipynb; 
-Presentation: 
+Code: Febriyeni-Koin Projects-CIA.ipynb;
 
 Description: The dataset contains 2511 records as of May 2021. There is a list of lenders with user_name,	loan_duration,	loan_grade,	lender_interest, total_purchase, order_status,	order_type,	order_date,	product, and	sub_product. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), Encoding variable, Scaling variable, Split Data Train and Test, Predictive modelling using the K-Nearest Neighbor (KNN) algorithm.
 
