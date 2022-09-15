@@ -1,28 +1,25 @@
 # Febriyeni Data Analyst-Data Science Project Portfolio
 
-Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science degree in Statistics (Politeknik Statistika STIS). This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science degree in Applied Statistics (Politeknik Statistika STIS). This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 # Table of Contents
 - Portfolio Projects
   - Koin Project
-  - A Mobile Game Data Analysis
-  - A Landing Page Design Experiment
-  - Online Advertising Campaign Analysis
-  - Airbnb Listings Analytics
-  - Study Projects
-  - sklearn ML course
-  - Kaggle 30 Days of ML
+  - Clustering and Credit Scoring Fintech
+  - Commuter Indonesia
+  - Immunization Indonesia
+  - Research
 - SQL
-- Interpretation
+- Interpretation and Presentation
 - Certificates
 - Contacts
 
 # Portfolio Projects
 In this section I will list some data analytics and data science projects briefly describing the technology stack used to solve cases.
 
-Video Games Sales Analysis
+- Koin Project
 Code: video_games_sales.ipynb
-Description: The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
+Description: The dataset contains 2511 records as of May 2021. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
 Skills: data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
 Results: Review of the global and regional video games markets, data-based business recommendations.
