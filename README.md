@@ -18,7 +18,7 @@ Hi, I'm Febriyeni! I have a technical background and hold a Bachelor of Science 
 In this section I will list some data analytics and data science projects briefly describing the technology stack used to solve cases.
 
 - Koin Project
-Code: video_games_sales.ipynb; 
+Code: Febriyeni-Koin Projects-CIA.ipynb; 
 Presentation: 
 Description: The dataset contains 2511 records as of May 2021. There is a list of lenders with user_name,	loan_duration,	loan_grade,	lender_interest, total_purchase, order_status,	order_type,	order_date,	product, and	sub_product. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
 Skills: data cleaning, data analysis, descriptive statistics, data visualization. Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
