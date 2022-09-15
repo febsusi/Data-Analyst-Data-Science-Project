@@ -30,25 +30,21 @@ Code: Febriyeni Susi-Credit Scoring Fintech.ipynb
 Description: Customer segmentation using the KMeans algorithm as part of clustering analysis and finding the feature importance by comparing different algorithms. The dataset contains 1000 records data. There is a list of lenders with Age, Sex,	Job,	Housing,	Saving accounts,	Checking account,	Credit amount,	Duration,	Purpose, and	Risk. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), encoding variable, clustering analysis, and predicting model.
 
 Skills: data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, encoding variable, clustering analysis, and predicting model.
-Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Supervised Learning Model, Unsupervised Learning Model.
+Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, Supervised Learning Model, Unsupervised Learning Model.
 Results: According to the evaluation metrics, the Naive-Bayes classifier works best because it gives the highest recall. However, when plotting the ROC curve and calculating AUC for all models, it is seen that XGB gives the highest AUC. So, the three features that have the most significant percentage using XGBoost are Duration, Saving Accounts, and Housing
 
 - Commuter Indonesia
 Code: notebook.ipynb
-Presentation: slides.pdf
-Description: My solution to an open Data Analyst competition held by Карьерный Цех. The solution took the 7th place in the competition (≈100 solutions were submitted by participants).
-Skills: evaluating A/B-test design, data cleaning, data anomalies detection, checking splitting system, calculating conversion rate, calculating bounce rate, log-scale transformations, Shapiro–Wilk test of distribution normality, A/B-tests (proportions z-test, Mann–Whitney rank test), plotting results, making conclusion and giving recommendations for follow-up actions.
-Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.
-Results: A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve.
+
+Description: Clustering indicators of the quality of life of commuters in Indonesia using the DBSCAN algorithm as unsupervised learning model. The dataset contains 384 records data.
+Skills and Technology: Python, Pandas, Numpy, Matplotlib, Data Visualization, Principal Component Analysis (PCA), DBSCAN algorithm.
+Results: Based on the results of the calculation of the DBSCAN algorithm method, the number of clusters is 3 clusters. With each cluster member 0, 1, and -1 there are 281, 98, and 5 members. Cluster 0 is each observation that has the highest cluster, followed by Cluster 1, while Cluster -1 is each observation that has the lowest cluster. Based on the silhouette score of 0.333, it can be concluded that the objects in the cluster have a relatively weak level of similarity with each other, but each observation is in the right cluster.
 
 - Customers Satisfaction Research
 Tableau Public: dashboard, Minitab, Eviews, and SPSS
 Description: The purpose of this research report is to measure the satisfaction level of customers and understand the customer’s needs for evaluation and improve the service of KoinRobo products. This report also analyzes the reasons and factors that influence customers’ satisfaction and allow insight into customers. This research was conducted with statistical and descriptive methods.
 
 # SQL
-Description: SQL queries for tasks from codecademy, sql-ex.ru, stepik, sql module on Yandex Praktikum, etc.
-Repository: Check the repository having 400+ SQL queries ---> go to repo..
-Status: Some of the courses are still in progress.
 
 # Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
