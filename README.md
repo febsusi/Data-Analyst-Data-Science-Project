@@ -19,7 +19,7 @@ In this section I will list some data analytics and data science projects briefl
 
 Code: Febriyeni-Koin Projects-CIA.ipynb;
 
-Description: The dataset contains 2511 records as of May 2021. There is a list of lenders with user_name,	loan_duration,	loan_grade,	lender_interest, total_purchase, order_status,	order_type,	order_date,	product, and	sub_product. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), Encoding variable, Scaling variable, Split Data Train and Test, Predictive modelling using the K-Nearest Neighbor (KNN) algorithm.
+Description: The dataset contains 2511 records as of May 2021. There is a list of lenders with user_name,	loan_duration,	loan_grade,	lender_interest, total_purchase, order_status,	order_type,	order_date,	product, and	sub_product. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), Encoding variable, Scaling variable, Split Data Train and Test, Classification using the K-Nearest Neighbor (KNN) algorithm.
 
 Skills: data cleaning, data analysis, descriptive statistics, data visualization, supervised learning model. Technology: Tableau, Python, Pandas, Numpy, Seaborn, Matplotlib.
 Results: Classification with the k-nearest neighbors' algorithm as supervised learning. In this project, I need to identify which users have the potential to be Mass/White/Silver/Gold lenders so that the company can upsell these lenders based on their class.
