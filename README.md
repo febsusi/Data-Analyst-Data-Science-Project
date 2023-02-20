@@ -22,6 +22,7 @@ Code: Febriyeni-Koin Projects-CIA.ipynb;
 Description: The dataset contains 2511 records as of May 2021. There is a list of lenders with user_name,	loan_duration,	loan_grade,	lender_interest, total_purchase, order_status,	order_type,	order_date,	product, and	sub_product. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), Encoding variable, Scaling variable, Split Data Train and Test, Classification using the K-Nearest Neighbor (KNN) algorithm.
 
 Skills: data cleaning, data analysis, descriptive statistics, data visualization, supervised learning model. Technology: Tableau, Python, Pandas, Numpy, Seaborn, Matplotlib.
+
 Results: Classification with the k-nearest neighbors' algorithm as supervised learning. In this project, I need to identify which users have the potential to be Mass/White/Silver/Gold lenders so that the company can upsell these lenders based on their class.
 
 - Clustering and Credit Scoring Fintech
@@ -31,7 +32,9 @@ Code: Febriyeni Susi-Credit Scoring Fintech.ipynb
 Description: Customer segmentation using the KMeans algorithm as part of clustering analysis and finding the feature importance by comparing different algorithms. The dataset contains 1000 records data. There is a list of lenders with Age, Sex,	Job,	Housing,	Saving accounts,	Checking account,	Credit amount,	Duration,	Purpose, and	Risk. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), encoding variable, clustering analysis, and predicting model.
 
 Skills: data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, encoding variable, clustering analysis, and predicting model.
+
 Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, Supervised Learning Model, Unsupervised Learning Model.
+
 Results: According to the evaluation metrics, the Naive-Bayes classifier works best because it gives the highest recall. However, when plotting the ROC curve and calculating AUC for all models, it is seen that XGB gives the highest AUC. So, the three features that have the most significant percentage using XGBoost are Duration, Saving Accounts, and Housing
 
 - Commuter Indonesia
@@ -41,6 +44,7 @@ Code: CLUSTERING COMMUTER INDONESIA - FEBRIYENI.ipynb
 Description: Clustering indicators of the quality of life of commuters in Indonesia using the DBSCAN algorithm as unsupervised learning model. The dataset contains 384 records data.
 
 Skills and Technology: Python, Pandas, Numpy, Matplotlib, Data Visualization, Principal Component Analysis (PCA), DBSCAN algorithm.
+
 Results: Based on the results of the calculation of the DBSCAN algorithm method, the number of clusters is 3 clusters. With each cluster member 0, 1, and -1 there are 281, 98, and 5 members. Cluster 0 is each observation that has the highest cluster, followed by Cluster 1, while Cluster -1 is each observation that has the lowest cluster. Based on the silhouette score of 0.333, it can be concluded that the objects in the cluster have a relatively weak level of similarity with each other, but each observation is in the right cluster.
 
 - Customers Satisfaction Research
